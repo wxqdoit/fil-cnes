@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#f7f6ef"/>
+  <path d="M96 128h320v104H96z" rx="30" fill="#2f7d57"/>
+  <path d="M96 280h320v104H96z" rx="30" fill="#bd5a45"/>
+  <circle cx="136" cy="180" r="18" fill="#f7f6ef"/>
+  <circle cx="136" cy="332" r="18" fill="#f7f6ef"/>
+  <path d="M184 180h192M184 332h192" stroke="#f7f6ef" stroke-width="24" stroke-linecap="round"/>
+  <text x="256" y="260" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="800" fill="#151614">fil-cnes</text>
+</svg>
