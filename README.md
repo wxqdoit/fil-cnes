@@ -4,6 +4,10 @@ fil-cnes is a Filecoin-powered Seal -> Reveal mini app for the FilecoinTLDR Buil
 
 Users write a short secret, add a public clue, and choose a passphrase. The browser encrypts the secret locally with AES-GCM, stores only the encrypted envelope on Filecoin through the Synapse SDK, and returns a Piece CID. Anyone with the Piece CID and passphrase can retrieve the payload from Filecoin and reveal it locally.
 
+![fil-cnes demo](submission-assets/fil-cnes-demo.png)
+
+Live demo: https://wxqdoit.github.io/fil-cnes/
+
 ## One Clear Mechanic
 
 Seal -> Share CID -> Reveal
@@ -90,4 +94,3 @@ fil-cnes uses Synapse SDK to prepare Filecoin Pay storage, upload encrypted payl
 Main mechanic:
 
 Seal a secret to Filecoin. Reveal it by Piece CID.
-
