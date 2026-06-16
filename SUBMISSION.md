@@ -40,6 +40,7 @@ See `AI_BUILD_LOG.md`.
 Pending final post.
 
 Use `submission-assets/fil-cnes-demo.png` as the screenshot attachment.
+Optional demo video URL: https://wxqdoit.github.io/fil-cnes/submission-assets/fil-cnes-demo.mp4
 
 Suggested post:
 
@@ -53,6 +54,7 @@ It is a Filecoin-powered Seal -> Reveal mini app:
 
 Demo: https://wxqdoit.github.io/fil-cnes/
 Repo: https://github.com/wxqdoit/fil-cnes
+Video: https://wxqdoit.github.io/fil-cnes/submission-assets/fil-cnes-demo.mp4
 
 @Filecoin @FilecoinTLDR
 ```
