@@ -37,7 +37,7 @@ See `AI_BUILD_LOG.md`.
 
 ## Public X Post
 
-Pending final post.
+https://x.com/wxqdoit/status/2066804928807661656
 
 Use `submission-assets/fil-cnes-demo.png` as the screenshot attachment.
 Optional demo video URL: https://wxqdoit.github.io/fil-cnes/submission-assets/fil-cnes-demo.mp4

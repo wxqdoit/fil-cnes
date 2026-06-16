@@ -94,3 +94,7 @@ fil-cnes uses Synapse SDK to prepare Filecoin Pay storage, upload encrypted payl
 Main mechanic:
 
 Seal a secret to Filecoin. Reveal it by Piece CID.
+
+Public X post:
+
+https://x.com/wxqdoit/status/2066804928807661656
