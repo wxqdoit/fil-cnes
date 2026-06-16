@@ -10,7 +10,7 @@ fil-cnes is a Filecoin-powered Seal -> Reveal mini app. A user encrypts a secret
 
 ## Live Demo Link
 
-TBD
+https://wxqdoit.github.io/fil-cnes/
 
 ## Repository Link
 
@@ -49,9 +49,8 @@ It is a Filecoin-powered Seal -> Reveal mini app:
 2. store the sealed envelope on Filecoin through Synapse
 3. reveal it later by Piece CID + passphrase
 
-Demo: TBD
+Demo: https://wxqdoit.github.io/fil-cnes/
 Repo: https://github.com/wxqdoit/fil-cnes
 
 @Filecoin @FilecoinTLDR
 ```
-
